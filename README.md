@@ -6,4 +6,4 @@
 
 ### Integrating Okta with OpenShift, with Groups Synchronization
 
-https://github.com/jimbarlow/okta-openshift-auth2-oidc
+https://github.com/jimbarlow/okta-openshift-auth2-oidc 
